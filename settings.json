@@ -1,4 +1,10 @@
 {
-  "prefix":"/",
-  "cooldown":"150000"
+    "token":"",
+    "prefix":"/",
+    "allowedRoles": [
+        ""
+    ],
+    "allowedChannels": [
+        ""
+    ]
 }
